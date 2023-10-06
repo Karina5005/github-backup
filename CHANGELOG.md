@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.5](https://github.com/Karina5005/github-backup/compare/v1.0.4...v1.0.5) (2023-10-06)
+
+
+### Bug Fixes
+
+* release version ([b5e86cf](https://github.com/Karina5005/github-backup/commit/b5e86cf4ed8377ac1ecc11461eedc188ff17e25d))
+
 ## 1.0.4 (2023-10-06)
 
 
