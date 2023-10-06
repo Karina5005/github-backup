@@ -62,7 +62,7 @@ jobs:
         uses: abatilo/actions-poetry@v2
         with:
           poetry-version: '1.3.2'
-      - uses: bjoluc/semantic-release-config-poetry@v1
+      - uses: bjoluc/semantic-release-config-poetry@v2
         with:
           pypi_token: ${{ secrets.PYPI_TOKEN }}
           github_token: ${{ secrets.GH_TOKEN }}
